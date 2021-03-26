@@ -1,0 +1,32 @@
+{
+    "componentPath": "./src/wwSection.vue",
+    "editor": {
+        "label": {
+            "en": "My Section"
+        },
+        "styleOptions": {
+            "textColor": {
+                "label": {
+                    "en": "Text color"
+                },
+                "type": "Color"
+            }
+        },
+        "settingsOptions": {
+            "title": {
+                "label": {
+                    "en": "Title"
+                },
+                "type": "Text"
+            }
+        },
+        "otherOptions": {
+            "cards": {
+                "label": {
+                    "en": "Cards"
+                },
+                "bindable": "repeatable"
+            }
+        }
+    }
+}
